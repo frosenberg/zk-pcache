@@ -1,6 +1,6 @@
 # Zookeeper PathCache implementation
 
-Take from [here](https://github.com/skynetservices/zkmanager) and extracted to be standalone.
+Taken from [here](https://github.com/skynetservices/zkmanager) and extracted to be standalone.
 
 
 ### Run tests
